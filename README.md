@@ -325,3 +325,5 @@ To execute it, be sure that you have execution permissions on the file (`chmod +
 ```
 
 The instances will be generated automatically.
+
+:warning: Not all generated instances of the problem are guaranteed to have a feasible solution.
